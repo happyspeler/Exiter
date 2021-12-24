@@ -1,0 +1,2 @@
+Alle kleuren veranderen als je op 4 gaat
+Geen @echo off op de dns verandering
